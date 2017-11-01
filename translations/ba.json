@@ -1,0 +1,12 @@
+{
+  "language": {
+    "ba": "Bosanski"
+  },
+  "panel": {
+    "states": "Status",
+    "map": "Karta",
+    "logbook": "Dnevnik",
+    "history": "Istorija",
+    "log_out": "Izlaz"
+  }
+}
